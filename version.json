@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
-  "downloadUrl": "https://github.com/CR43K3L/MAJ-7734-Control/releases/download/v1.2.0/7734-Control-Setup-1.2.0.exe",
-  "notes": "Dashboard PC, profils par jeu, mode admin, point de restauration, optimisations registre avancees, nettoyage gaming, detection ecran et estimation XMP/EXPO RAM."
+  "version": "1.2.1",
+  "downloadUrl": "https://github.com/CR43K3L/MAJ-7734-Control/releases/download/v1.2.1/7734-Control-Setup-1.2.1.exe",
+  "notes": "Interface simplifiee: dashboard CPU/GPU avec temperatures, modes rapides Max FPS/Low Latency/Stable, speedtest plus stable, auto-check MAJ discret, pop-up resume anime et lancement admin automatique."
 }
