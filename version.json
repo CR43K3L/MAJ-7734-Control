@@ -1,5 +1,5 @@
 {
-  "version": "1.2.2",
-  "downloadUrl": "https://github.com/CR43K3L/MAJ-7734-Control/releases/download/v1.2.2/7734-Control-Setup-1.2.2.exe",
-  "notes": "Correctif Max FPS: Nettoyage Gaming applique correctement, message plus clair quand des optimisations sont deja actives, updater raw GitHub fiabilise."
+  "version": "1.2.3",
+  "downloadUrl": "https://github.com/CR43K3L/MAJ-7734-Control/releases/download/v1.2.3/7734-Control-Setup-1.2.3.exe",
+  "notes": "Diagnostic simplifie en cartes composants visuelles, multi-ecrans corrige, dashboard nettoye, resume bas supprime et modes predefinis Low Latency/Stable repares."
 }
