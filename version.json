@@ -1,5 +1,5 @@
 {
-  "version": "1.2.1",
-  "downloadUrl": "https://github.com/CR43K3L/MAJ-7734-Control/releases/download/v1.2.1/7734-Control-Setup-1.2.1.exe",
-  "notes": "Interface simplifiee: dashboard CPU/GPU avec temperatures, modes rapides Max FPS/Low Latency/Stable, speedtest plus stable, auto-check MAJ discret, pop-up resume anime et lancement admin automatique."
+  "version": "1.2.2",
+  "downloadUrl": "https://github.com/CR43K3L/MAJ-7734-Control/releases/download/v1.2.2/7734-Control-Setup-1.2.2.exe",
+  "notes": "Correctif Max FPS: Nettoyage Gaming applique correctement, message plus clair quand des optimisations sont deja actives, updater raw GitHub fiabilise."
 }
