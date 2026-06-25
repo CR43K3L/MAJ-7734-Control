@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
-  "downloadUrl": "https://github.com/CR43K3L/MAJ-7734-Control/releases/download/v1.0.4/7734-Control-Setup-1.0.4.exe",
-  "notes": "Ajout speed test gaming, diagnostic drivers, presets rapides et page nouveautes apres mise a jour."
+  "version": "1.0.5",
+  "downloadUrl": "https://github.com/CR43K3L/MAJ-7734-Control/releases/download/v1.0.5/7734-Control-Setup-1.0.5.exe",
+  "notes": "Speed test refait: jauge centrale, download multi-connexions, upload, ping, jitter et affichage plus proche d'un speedtest."
 }
