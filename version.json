@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "downloadUrl": "https://github.com/CR43K3L/MAJ-7734-Control/releases/download/v1.1.0/7734-Control-Setup-1.1.0.exe",
-  "notes": "Grosse mise a jour: speedtest 60 secondes anime, diagnostic PC simplifie et cartes composants enrichies avec marque, modele et visuels."
+  "version": "1.2.0",
+  "downloadUrl": "https://github.com/CR43K3L/MAJ-7734-Control/releases/download/v1.2.0/7734-Control-Setup-1.2.0.exe",
+  "notes": "Dashboard PC, profils par jeu, mode admin, point de restauration, optimisations registre avancees, nettoyage gaming, detection ecran et estimation XMP/EXPO RAM."
 }
