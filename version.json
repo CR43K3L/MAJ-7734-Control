@@ -1,5 +1,5 @@
 {
-  "version": "1.2.3",
-  "downloadUrl": "https://github.com/CR43K3L/MAJ-7734-Control/releases/download/v1.2.3/7734-Control-Setup-1.2.3.exe",
-  "notes": "Diagnostic simplifie en cartes composants visuelles, multi-ecrans corrige, dashboard nettoye, resume bas supprime et modes predefinis Low Latency/Stable repares."
+  "version": "1.2.4",
+  "downloadUrl": "https://github.com/CR43K3L/MAJ-7734-Control/releases/download/v1.2.4/7734-Control-Setup-1.2.4.exe",
+  "notes": "Modes predefinis avec recap avant changement, remplacement propre du mode actif, historique des 10 speedtests, tentative temperature CPU et diagnostic materiel complet."
 }
