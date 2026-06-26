@@ -1,5 +1,6 @@
 {
-  "version": "1.1.0-beta",
-  "downloadUrl": "https://github.com/CR43K3L/MAJ-7734-Control/releases/download/v1.1.0-beta/7734-Control-Setup-1.1.0-beta.exe",
-  "notes": "Score sante PC, recommandations personnalisees, problemes detectes, nettoyage intelligent, gestionnaire de demarrage, diagnostic drivers, export TXT/JSON, mode simple/expert et tutoriel premier lancement."
+  "version": "1.1.2-beta",
+  "downloadUrl": "https://github.com/CR43K3L/MAJ-7734-Control/releases/download/v1.1.2-beta/7734-Control-Setup-1.1.2-beta.exe",
+  "notes": "Switch Simple/Expert en haut a droite, dashboard simplifie, mode Simple limite aux presets, mode Expert pour les optis manuelles, unite SpeedTest Mbps/MB/s en expert et tutoriel guide par onglets."
 }
+
