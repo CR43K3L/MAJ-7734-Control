@@ -1,5 +1,5 @@
 {
-    "version":  "1.1.1-beta",
-    "downloadUrl":  "https://github.com/CR43K3L/MAJ-7734-Control/releases/download/v1.1.1-beta/7734-Control-Setup-1.1.1-beta.exe",
-    "notes":  "Beta 1.1.1: correction des apps au demarrage, liste compacte sans chevauchement, SpeedTest simplifie et serveur download Scaleway Paris avec Cloudflare en secours."
+    "version":  "1.1.2-beta",
+    "downloadUrl":  "https://github.com/CR43K3L/MAJ-7734-Control/releases/download/v1.1.2-beta/7734-Control-Setup-1.1.2-beta.exe",
+    "notes":  "Beta 1.1.2: dashboard allege, nouvelle entree Simple/Expert dans Optimisations, Diagnostic simplifie dans l app, rapport complet exporte en page web, nettoyage intelligent et apps au demarrage mieux places."
 }
