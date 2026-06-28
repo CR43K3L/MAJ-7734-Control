@@ -1,5 +1,5 @@
 {
-  "version": "1.1.9-beta",
-  "downloadUrl": "https://github.com/CR43K3L/MAJ-7734-Control/releases/download/v1.1.9-beta/7734-Control-Setup-1.1.9-beta.exe",
-  "notes": "Version 1.1.9-beta: lecture temperature CPU plus stricte pour eviter les valeurs bloquees ou incorrectes."
+  "version": "1.1.10-beta",
+  "downloadUrl": "https://github.com/CR43K3L/MAJ-7734-Control/releases/download/v1.1.10-beta/7734-Control-Setup-1.1.10-beta.exe",
+  "notes": "Version 1.1.10-beta: Dashboard simplifie avec temperatures CPU/GPU et lecture CPU amelioree via les sous-capteurs."
 }
