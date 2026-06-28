@@ -1,5 +1,5 @@
 {
-  "version": "1.1.4-beta",
-  "downloadUrl": "https://github.com/CR43K3L/MAJ-7734-Control/releases/download/v1.1.4-beta/7734-Control-Setup-1.1.4-beta.exe",
-  "notes": "Version 1.1.4-beta: correction du systeme de mise a jour. L'app detecte mieux sa version installee, remplace correctement les anciens fichiers et evite que la meme mise a jour reapparaisse en boucle."
+  "version": "1.1.5-beta",
+  "downloadUrl": "https://github.com/CR43K3L/MAJ-7734-Control/releases/download/v1.1.5-beta/7734-Control-Setup-1.1.5-beta.exe",
+  "notes": "Version 1.1.5-beta: nouveaux modes d'optimisation, plus d'options manuelles, nettoyage avec progression en Mo/Go et lecture temperature CPU amelioree."
 }
