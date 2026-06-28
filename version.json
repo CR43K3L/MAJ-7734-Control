@@ -1,5 +1,5 @@
 {
-  "version": "1.1.5-beta",
-  "downloadUrl": "https://github.com/CR43K3L/MAJ-7734-Control/releases/download/v1.1.5-beta/7734-Control-Setup-1.1.5-beta.exe",
-  "notes": "Version 1.1.5-beta: nouveaux modes d'optimisation, plus d'options manuelles, nettoyage avec progression en Mo/Go et lecture temperature CPU amelioree."
+  "version": "1.1.6-beta",
+  "downloadUrl": "https://github.com/CR43K3L/MAJ-7734-Control/releases/download/v1.1.6-beta/7734-Control-Setup-1.1.6-beta.exe",
+  "notes": "Version 1.1.6-beta: interface optimisations plus lisible, speedtest modernise, bouton Windows Stock et verification de mise a jour anti-cache."
 }
