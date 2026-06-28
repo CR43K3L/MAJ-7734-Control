@@ -1,6 +1,6 @@
 {
-  "version": "1.1.13-beta",
-  "downloadUrl": "https://github.com/CR43K3L/MAJ-7734-Control/releases/download/v1.1.13-beta/7734-Control-Setup-1.1.13-beta.exe",
-  "notes": "Version 1.1.13-beta: lecture temperature CPU via HWiNFO64, message capteur plus clair et detection temperature prioritaire pour les CPU Ryzen."
+  "version": "1.1.14-beta",
+  "downloadUrl": "https://github.com/CR43K3L/MAJ-7734-Control/releases/download/v1.1.14-beta/7734-Control-Setup-1.1.14-beta.exe",
+  "notes": "Version 1.1.14-beta: setup avec choix de langue, conditions generales et installation HWiNFO64 assistee pour les temperatures CPU."
 }
 
